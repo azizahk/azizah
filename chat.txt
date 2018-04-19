@@ -4,3 +4,4 @@ int main(){
   printf("Hai ini chat");
   return 0;
 }
+azizah elek
