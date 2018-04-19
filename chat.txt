@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(){
+  printf("Hai ini chat");
+  return 0;
+}
